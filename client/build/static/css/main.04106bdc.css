@@ -1,0 +1,2 @@
+@keyframes activeMotion{0%{width:0}to{width:50%}}.active:before{animation:activeMotion .4s forwards;border:2px solid #fe5b3d;border-radius:15px;content:"";position:absolute;top:120%}@media only screen and (min-width:1200px){.active:before{border-width:2px}}
+/*# sourceMappingURL=main.04106bdc.css.map*/

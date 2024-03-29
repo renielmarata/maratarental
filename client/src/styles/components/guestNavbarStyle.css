@@ -1,0 +1,30 @@
+@keyframes activeMotion {
+  from {
+    width: 0;
+  }
+  to {
+    width: 50%;
+  }
+}
+
+.active::before {
+  content: "";
+  border: 2px solid #fe5b3d;
+  border-radius: 15px;
+  position: absolute;
+  top: 120%;
+  animation: activeMotion 0.4s forwards;
+}
+
+/* large screen */
+@media only screen and (min-width: 1200px) {
+  .active::before {
+    border-width: 2px;
+  }
+}
+
+/* medium screen */
+@media only screen and (min-width: 900px) and (max-width: 1199px) {
+  .active::before {
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04106bdc.css",
+    "main.js": "/static/js/main.a1f32253.js",
+    "static/media/HeroBanner.png": "/static/media/HeroBanner.20479a0c708d12a3b147.png",
+    "static/media/AccountDrawerImage.svg": "/static/media/AccountDrawerImage.a7cafb19b6d2d832f6a7aa4aacb0deb4.svg",
+    "index.html": "/index.html",
+    "main.04106bdc.css.map": "/static/css/main.04106bdc.css.map",
+    "main.a1f32253.js.map": "/static/js/main.a1f32253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04106bdc.css",
+    "static/js/main.a1f32253.js"
+  ]
+}
